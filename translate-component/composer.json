@@ -1,0 +1,12 @@
+{
+	"name": "morphable/translations",
+	"description": "translations component",
+	"autoload": {
+		"psr-4": {
+			"Translate\\": "src/"
+		}
+	},
+    "require": {
+		"php": "^7.0"
+	}
+}
